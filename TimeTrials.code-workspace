@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"name": "TimeTrials",
+			"path": "."
+		},
+		{
+			"name": "UE4",
+			"path": "D:\\Epic Games\\UE_4.26"
+		}
+	],
+	"settings": {
+		"typescript.tsc.autoDetect": "off",
+		"C_Cpp.default.forcedInclude": [
+			"${default}",
+			"D:\\Portfolio\\TimeTrials\\Intermediate\\Build\\Win64\\UE4Editor\\Development\\TimeTrials\\Definitions.TimeTrials.h",
+			"D:\\Portfolio\\TimeTrials\\Intermediate\\Build\\Win64\\TimeTrialsEditor\\Development\\Engine\\SharedPCH.Engine.ShadowErrors.h"
+		]
+	},
+	"extensions": {
+		"recommendations": [
+			"ms-vscode.cpptools",
+			"ms-dotnettools.csharp"
+		]
+	}
+}
